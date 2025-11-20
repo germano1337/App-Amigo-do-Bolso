@@ -1,4 +1,4 @@
-Utilizando o Google AI Studio para desenvolver um aplicativo de organização financeira pessoal com o intuito de fixar o aprendizado em Vibe Coding e utilizando minhas habilidades de engenharia de prompt.
+Utilizando o Google AI Studio para desenvolver um aplicativo de organização financeira pessoal utilizando minhas habilidades de engenharia de prompt com o intuito de fixar o aprendizado em Vibe Coding.
 ```
 # Crie um app chamado **Amigo do bolso** que ajuda **pessoas com uma fonte de renda estável** a **economizar e juntar dinheiro para diversos objetivos**.
 
