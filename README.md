@@ -1,3 +1,32 @@
+Utilizando o Google AI Studio para desenvolver um aplicativo de organização financeira pessoal com o intuito de fixar o aprendizado em Vibe Coding e utilizando minhas habilidades de engenharia de prompt.
+```
+# Crie um app chamado **Amigo do bolso** que ajuda **pessoas com uma fonte de renda estável** a **economizar e juntar dinheiro para diversos objetivos**.
+
+## O que o app faz:
+
+1. **Criar tarefas com título e prazo**
+2. **Arrastar itens entre colunas**
+3. **Marcar itens como concluídos**
+4. **Criar gastos previstos no mês**
+
+## Como deve funcionar:
+
+- Quando o usuário **clica em '+'**, o app **abre um formulário simples**
+- Os dados são salvos **no navegador, sem login**
+- O visual deve ser **limpo, com cores neutras e fonte grande**
+
+## O que NÃO incluir:
+
+- **Sistema de login**
+- **Banco de dados externo**
+- **Recursos complexos de compartilhamento**
+```
+
+
+
+
+
+
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
