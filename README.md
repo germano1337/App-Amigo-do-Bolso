@@ -24,16 +24,17 @@ Utilizando o Google AI Studio para desenvolver um aplicativo de organização fi
 
 
 
+<img width="1908" height="944" alt="image" src="https://github.com/user-attachments/assets/4f94ff1c-353e-4188-b5ad-46662608159b" />
+<img width="1763" height="904" alt="image" src="https://github.com/user-attachments/assets/09039e25-a87d-4123-95e0-c609a204cf32" />
+<img width="1508" height="861" alt="image" src="https://github.com/user-attachments/assets/9ce395fd-bef1-4807-b57e-261949b774d5" />
+<img width="1481" height="880" alt="image" src="https://github.com/user-attachments/assets/31926213-ccf2-4407-a7f1-aacd14c6afb4" />
 
 
 
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
 
-# Run and deploy your AI Studio app
 
-This contains everything you need to run your app locally.
+
+
 
 View your app in AI Studio: https://ai.studio/apps/drive/1VVf-cgMaWBdvqqB8hkW9oqGncVfMmgBz
 
